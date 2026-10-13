@@ -1,9 +1,152 @@
 # AI_TAPE_master_synthesis
 The AI transition away from scaffolding and gridlines.
 
+Continuity Guide
+
+README
+The Continuity Guide helps an AI preserve enough of an ongoing project for another AI, conversation, or session to continue it meaningfully.
+It is designed around a simple idea:
+Give the AI good guidance, good project state, and room to think.
+
+The Guide is not a template that must be filled in exactly. It is guidance for the AI creating or recovering continuity.
+
+What You Need
+There are two different things:
+1. The Continuity Guide
+This tells the AI how to approach continuity.
+It contains principles about truth, gaps, preservation, useful depth, compression and recovery.
+
+2. Your Project Continuity
+
+This contains your actual project.
+It may contain decisions, current state, important reasoning, characters, assets, unresolved questions, rejected approaches, next steps, or anything else the AI judges necessary for useful continuation.
+
+The Guide is the instrument. Your continuity is the payload.
+Creating a Continuity
+
+Give the AI the Continuity Guide and access to the project you want preserved.
+Then ask normally.
+
+For example:
+Using the Continuity Guide, create a continuity for this project so that another AI can meaningfully continue the work.
+
+That's enough.
+You do not need a special prompt, command language, checklist, or template.
+Let the AI inspect the project and decide what that particular project needs.
+
+Continuing a Project
+In a new conversation or with another AI, provide:
+The Continuity Guide
+The project continuity
+
+What you want to do next
+For example:
+Here is the Continuity Guide and the continuity from the previous session. Load them and continue the project. I want to work on Chapter 1 next.
+
+Or simply:
+Recover the project from these and tell me where we stand.
+
+A capable AI should use the continuity as inherited project state rather than treating it as a new specification to blindly execute.
+
+If the Result Isn't Right
+Just tell the AI.
+
+You do not need to modify the Guide every time circumstances change.
+For example:
+
+This is too compressed. Preserve more of the reasoning and project history.
+
+Or:
+You only have about a 4K output window. Produce the best continuity you can within that limit and tell me honestly what was lost.
+
+Or:
+This has become too procedural. Redo it as the handover this project actually needs.
+
+Or:
+You've preserved the plot but lost too much character personality. Rebalance it.
+
+The user and AI remain part of the process.
+Ordinary conversation is the control surface.
+
+What a Good Continuity Should Do
+A useful continuity should allow the next AI to understand:
+
+what the project is;
+where it currently stands;
+
+what still matters;
+what has already been decided;
+
+what remains uncertain;
+why important decisions were made;
+
+what should not have to be rediscovered from scratch;
+and where productive continuation can begin.
+
+It does not need to preserve every word ever written.
+It does need to preserve the meaning that still has force.
+
+Gaps Are Allowed
+A continuity does not have to pretend the project knows things that it doesn't.
+
+If something remains unresolved, it should remain unresolved.
+If information is missing, that can be stated honestly.
+
+If output limits forced useful material to be left behind, that can also be stated.
+A truthful partial handover is preferable to a confident fictional one.
+
+Size Is Not the Goal
+There is no ideal continuity length.
+
+A small project may need very little.
+A large research, writing, engineering, or design project may need considerably more.
+
+If the available AI or output window imposes limits, tell the AI and let it make an informed compromise.
+If plenty of capacity is available, there is no prize for making the continuity artificially tiny.
+
+The objective is useful restoration, not compression for its own sake.
+You Can Redirect the AI
+
+The Continuity Guide deliberately does not attempt to anticipate every situation.
+If something unusual happens, explain it.
+
+If the AI misunderstands your project, correct it.
+If an important area deserves more weight, say so.
+
+If the continuity is becoming bloated, ask the AI whether everything still earns its place.
+You are collaborating with an intelligent system, not operating a file compressor.
+
+A Simple Workflow
+At the end of useful work
+
+Using the Continuity Guide, create a continuity for this project.
+Save the resulting project continuity alongside the Guide.
+
+When starting again
+Provide both and say:
+
+Recover this project and continue from the inherited state.
+Then work normally.
+
+When things change
+Tell the AI.
+
+No special maintenance procedure is required.
+One Principle to Remember
+
+If you remember nothing else:
+
+The Guide tells the AI how to approach continuity.
+The continuity tells the next AI what it needs to know.
+
+You tell it what you want to do next.
+That's the whole system.
+
+Guide + Continuity + Conversation.
+No ceremony required.
+
 The outline below is multiple AIs review of all the research, compiled into a more direct guide you can just hand to AI and it should be able to use its intellect itself to make continuity 
 This has a floor I think of 27B, and may get better the higher the AI level. 
-
 
 ------------------------------
 # The Continuity Guide for AI
